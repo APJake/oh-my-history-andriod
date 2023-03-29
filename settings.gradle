@@ -14,3 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Oh My History"
 include ':app'
+include ':common'
+include ':data'
+include ':domain'
